@@ -15,7 +15,7 @@ npm install axios cheerio
 
 ## 2️⃣ Scraper'ı Çalıştırın
 
-- node app.js > url
+- node app.js > domains
 
 ## 🛑 YASAL UYARI
 
