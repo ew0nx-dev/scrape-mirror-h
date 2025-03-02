@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Mirror-H Web Scraper
 
-Bu proje, [Mirror-H](https://mirror-h.org) üzerinde belirli bir arama sorgusuna ait **hacklenen sitelerin domainlerini** otomatik olarak çeken bir **Node.js** web scraper'ıdır. 
+Bu proje, [Mirror-H](https://mirror-h.org) üzerinde belirli bir arama/ID sorgusuna ait **hacklenen sitelerin domainlerini** otomatik olarak çeken bir **Node.js** web scraper'ıdır. 
 
 ## 🚀 Özellikler
 - ✅ **Konsola temiz bir çıktı verir**, JSON veya düz metin formatında kolayca kaydedilebilir.
